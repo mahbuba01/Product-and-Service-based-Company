@@ -92,6 +92,7 @@ Professionals: Focus on working on "meaty" projects.
 
 
 
-Reference Book: Cracking the Coding Interview
+Reference Book: 
+Cracking the Coding Interview
 
 
