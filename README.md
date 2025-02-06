@@ -95,4 +95,19 @@ Professionals: Focus on working on "meaty" projects.
 Reference Book: 
 Cracking the Coding Interview
 
+# Live Coding Practice Platforms
+
+1. Pramp
+2. Gainlo
+3. Interviewing.io
+
+# CS News Sites
+
+1. Hacker News [https://news.ycombinator.com/]
+2. Lobsters [https://lobste.rs/]
+
+
+
+
+
 
